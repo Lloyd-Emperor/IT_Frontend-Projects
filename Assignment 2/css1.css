@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans');
 
-/* CSS Variables */
+
 :root {
     --primary-color: #b90415;
     --primary-color-hover: #d3071b;
@@ -248,9 +248,9 @@ footer .footer-cols {
       content: "|||";
       transform: rotate(-90deg);
       -ms-transform: rotate(-90deg);
-      /* IE 9 */
+      
       -webkit-transform: rotate(-90deg);
-      /* Safari and Chrome */
+      
       width: 30px;
       height: 30px;
       display: inline-block;
